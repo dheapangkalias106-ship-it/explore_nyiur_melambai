@@ -68,7 +68,7 @@ font-weight:500;
 
 .hero{
 height:500px;
-background-image:url("images/sunset.jpeg");
+background-image:url("sunset.jpeg");
 background-size:cover;
 background-position:center;
 display:flex;
@@ -195,3 +195,4 @@ margin-top:40px;
         align-items: center; 
     } 
 }
+
